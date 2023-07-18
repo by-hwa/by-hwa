@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bye-hwa
+- 👋 Hi, I’m @by-hwa
 - 👀 I’m interested in Data Science and Analysis
 - 📫 How to reach me **bu04007@gmail.com**
 
