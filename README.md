@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @by-hwa
-- 👀 I’m interested in Data Science and Analysis
+- 👀 I’m interested in Autonomous Driving and Optimization
 - 📫 How to reach me **bu04007@gmail.com**
 
 <!---
