@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @by-hwa
-- 👀 I’m interested in Autonomous Driving and Optimization
-- 📫 How to reach me **bu04007@gmail.com**
+- 👀 I’m interested in Robotics and Autonomous Driving
+- 📫 How to reach me **bu04007@gmail.com** or **bu04007@khu.ac.kr**
 
 <!---
 bye-hwa/bye-hwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
