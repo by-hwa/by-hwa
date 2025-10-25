@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @by-hwa
-- 👀 I’m interested in Robotics and Autonomous Driving
+- 👀 I’m interested in Smart Factory, Robotics and Autonomous Driving
 - 📫 How to reach me **bu04007@gmail.com** or **bu04007@khu.ac.kr**
 
 <!---
